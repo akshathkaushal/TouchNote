@@ -1,6 +1,6 @@
 # TouchNote
 
-![alt text](https://image.flaticon.com/icons/svg/1330/1330815.svg)
+![alt text](https://assets.skyfilabs.com/images/blog/haptics-technology.jpg)
 
 TouchNote is a simple and lightweight ToDo-List app which is helpful in keeping small notes and ideas handy.
 
