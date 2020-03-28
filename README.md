@@ -1,5 +1,6 @@
 # TouchNote
 [![Build Status](https://travis-ci.com/akshathkaushal/TouchNote.svg?branch=master)](https://travis-ci.com/akshathkaushal/TouchNote)
+
 A basic yet quite useful note-making tool
 
 ![alt text](https://cdn.icon-icons.com/icons2/1494/PNG/512/touch_102928.png)
