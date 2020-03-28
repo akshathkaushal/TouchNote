@@ -26,7 +26,7 @@ docker-compose up       # starts the docker container
 ## Creating and Running Tests
 ### Creating a test:
 ```python
-cd app/TouchNote/
+cd app/TodoList/
 ```
 Create a new test in the file tests.py
 
