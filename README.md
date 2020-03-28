@@ -23,6 +23,19 @@ docker-compose up       # starts the docker container
 ```
     The app is now running on localhost:8000
 
+## Creating and Running Tests
+### Creating a test:
+```python
+cd app/TouchNote/
+```
+Create a new test in the file tests.py
+
+### Running a test:
+```python
+cd app/
+python3 manage.py test
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
