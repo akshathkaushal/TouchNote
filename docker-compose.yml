@@ -4,9 +4,10 @@ services:
     app:
         build:
             context: .
+            dockerfile: Docker/python/Dockerfile
         ports:
             - "8000:8000"
         volumes:
             - ./app:/app
         command: >
-            sh -c "python3 manage.py runserver 127.0.0.1:8000"
+            sh -c "python3 manage.py runserver 0.0.0.0:8000"
