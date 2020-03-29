@@ -20,7 +20,7 @@ pip3  install docker-compose
 ## Usage
 
 ```python
-docker-compose build    # builds the Docker image and attaches it to the container
+docker-compose build    # builds the Docker container from the Dockerfile
 docker-compose up       # starts the docker container
 ```
     The app is now running on localhost:8000
