@@ -1,3 +1,29 @@
+body {
+    background-image: url('https://www.filepicker.io/api/file/u5frNNlBQDQbBX0nh9Mg');
+  }
+
+a {
+    color: black;
+}
+
+.entry {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
+
 .striker {
+    border: 0px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 159, 143);
     text-decoration: line-through;
+    padding: 3px;
+    font-size: 25px;
+}
+
+.nonstriker {
+    border: 0px solid black;
+    border-radius: 10px;
+    background-color: rgb(168, 255, 168);
+    padding: 3px;
+    font-size: 25px;
 }
